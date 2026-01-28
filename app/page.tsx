@@ -1,3 +1,5 @@
+"use client";
+
 import useSession from "@/utils/useSession";
 import Image from "next/image";
 
